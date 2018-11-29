@@ -100,4 +100,4 @@ API |
 
 ## Hora de automatizar...
 
-![Automatizar](images/automatizar.gif)
+![Automatizar](images/automation.jpg)
