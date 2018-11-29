@@ -10,7 +10,7 @@
 <br>
 
 Rundeck es una herramienta de automatización.
-Permite la ejecución y orquestación de scripts y comandos en servidores remotos.
+Permite la ejecución y orquestación de scripts y comandos en equipos remotos.
 
 
 ---
