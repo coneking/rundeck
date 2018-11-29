@@ -91,7 +91,13 @@ API |
 
 # Ejemplo de integración
 
+
++++?video=https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec2.mp4
+@title[Rundeck_Portal]
+
 ---
 @title[Automatiza]
 
 ## Hora de automatizar...
+
+![Automatizar](images/automatizar.gif)
