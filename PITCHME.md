@@ -19,14 +19,14 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 ## ¿Cómo funciona?
 
 - Linux: SSH |
-- Windows: Powershell |
+- Windows: Powershell Node Executor |
 
 ---
 @title[Organización]
 
 ## Organización
 
-<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/jobs.png" width="800" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/jobs.png" width="700" /></p>
 
 ---
 @title[Por_que_Rundeck]
@@ -41,12 +41,15 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 - Plugins |
 
 +++
-@title[Estadísticas]
+@title[Actividad]
 
-<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/historial.png" width="800" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/actividad.png" width="700" /></p>
 
 +++
-@title[Estadísticas]
+@title[Estado]
 
 <p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/status.png" width="600" /></p>
 
++++
+@title[Estadísticas]
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/estadisticas.png" width="600" /></p>
