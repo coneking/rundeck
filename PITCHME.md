@@ -92,8 +92,11 @@ API |
 # Ejemplo de integración
 
 
-+++?video=https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec2.mp4
-@title[Rundeck_Portal]
++++
+@css[title-top-right](Integración Portal)
+
+![Integracion](https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec2.mp4)
+
 
 ---
 @title[Automatiza]
