@@ -69,8 +69,11 @@ Permite la ejecución y orquestación de scripts y comandos en equipos remotos.
 
 # Ejemplo Tarea Automatizada
 
-+++?video=https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec.mp4
++++
 @title[Rundeck]
+@css[title-top-right](Rundeck)
+
+![Rundeck](https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec.mp4)
 
 ---
 @title[Integracion]
@@ -84,7 +87,7 @@ Permite la ejecución y orquestación de scripts y comandos en equipos remotos.
 
 ## ¿Cómo lograr la integración?
 
-API |
+- API |
 
 ---
 @title[Ejemplo_portal]
@@ -93,6 +96,7 @@ API |
 
 
 +++
+@title[Integración]
 @css[title-top-right](Integración Portal)
 
 ![Integracion](https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec2.mp4)
