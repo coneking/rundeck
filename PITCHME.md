@@ -73,7 +73,7 @@ Permite la ejecución y orquestación de scripts y comandos en equipos remotos.
 @title[Rundeck]
 
 ---
-@title[Intrgracion]
+@title[Integracion]
 
 ## Integración Portal de Servicios
 
@@ -90,3 +90,8 @@ API |
 @title[Ejemplo_portal]
 
 # Ejemplo de integración
+
+---
+@title[Automatiza]
+
+## Hora de automatizar...
