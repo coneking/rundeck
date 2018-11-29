@@ -64,7 +64,14 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 
 ---
 @title[Ejemplos]
-# Ejemplo
+# Ejemplo Tarea Automatizada
 
 +++?video=https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec.mp4
 @title[Rundeck]
+
+---
+
+## Hora de automatizar...
+
+
+
