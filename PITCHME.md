@@ -34,11 +34,19 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 ## ¿Por qué Rundeck?
 
 - Interfaz web
-- Control de ejecución
-- Historial
-- Control de acceso
+- Supervisión de ejecución
+- Historial y Estadísticas
+- Control de acceso (ACL y AD)
+- Notificaciones
 - Plugins
 
 +++
+@title[Estadísticas]
 
-@title[]
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/historial.jpg" width="400" /></p>
+
++++
+@title[Estadísticas]
+
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/status.jpg" width="400" /></p>
+
