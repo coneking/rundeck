@@ -10,6 +10,35 @@
 <br>
 
 Rundeck es una herramienta de automatización.
-Permite la ejecución de scripts y comandos remotos.
-Es posible programar tareas y notificar al usuario su estado.
+Permite la ejecución y orquestación de scripts y comandos en servidores remotos.
 
+
+---
+@title[Funcionamiento]
+
+## ¿Cómo funciona?
+
+- Linux: SSH
+- Windows: Powershell
+
+---
+@title[Organización]
+
+## Organización
+
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/rundeck.jpg" width="600" /></p>
+
+---
+@title[Por_que_Rundeck]
+
+## ¿Por qué Rundeck?
+
+- Interfaz web
+- Control de ejecución
+- Historial
+- Control de acceso
+- Plugins
+
++++
+
+@title[]
