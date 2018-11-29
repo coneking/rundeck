@@ -18,32 +18,32 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 
 ## ¿Cómo funciona?
 
-- Linux: SSH
-- Windows: Powershell
+- Linux: SSH |
+- Windows: Powershell |
 
 ---
 @title[Organización]
 
 ## Organización
 
-<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/jobs.png" width="600" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/jobs.png" width="800" /></p>
 
 ---
 @title[Por_que_Rundeck]
 
 ## ¿Por qué Rundeck?
 
-- Interfaz web
-- Supervisión de ejecución
-- Historial y Estadísticas
-- Control de acceso (ACL y AD)
-- Notificaciones
-- Plugins
+- Interfaz web |
+- Supervisión de ejecución |
+- Historial y Estadísticas |
+- Control de acceso (ACL y AD) |
+- Notificaciones |
+- Plugins |
 
 +++
 @title[Estadísticas]
 
-<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/historial.png" width="600" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/historial.png" width="800" /></p>
 
 +++
 @title[Estadísticas]
