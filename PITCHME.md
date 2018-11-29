@@ -1,6 +1,6 @@
 ---
 @title[Demo]
-<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/rundeck.png" width="600" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/rundeck.jpg" width="600" /></p>
 
 
 ---
