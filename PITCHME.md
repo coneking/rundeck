@@ -61,3 +61,10 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 ### Estadísticas
 
 <p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/estadisticas.png" width="1000" /></p>
+
+---
+@title[Ejemplos]
+# Ejemplo
+
++++?video=https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec.mp4
+@title[Rundeck]
