@@ -22,13 +22,6 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 - Windows: Powershell Node Executor |
 
 ---
-@title[Organización]
-
-## Organización
-
-<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/jobs.png" width="700" /></p>
-
----
 @title[Por_que_Rundeck]
 
 ## ¿Por qué Rundeck?
@@ -40,16 +33,31 @@ Permite la ejecución y orquestación de scripts y comandos en servidores remoto
 - Notificaciones |
 - Plugins |
 
+---
+@title[Organización]
+
+### Organización
+
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/jobs.png" width="700" /></p>
+
+
 +++
 @title[Actividad]
 
-<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/actividad.png" width="700" /></p>
+### Actividad
+
+<p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/actividad.png" width="600" /></p>
 
 +++
 @title[Estado]
+
+### Estado
 
 <p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/status.png" width="600" /></p>
 
 +++
 @title[Estadísticas]
+
+### Estadísticas
+
 <p align="center"><img src="https://raw.githubusercontent.com/coneking/rundeck/demo/images/estadisticas.png" width="600" /></p>
