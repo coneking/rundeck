@@ -64,16 +64,19 @@ Permite la ejecución y orquestación de scripts y comandos en equipos remotos.
 
 ---
 @title[Ejemplos]
+
 # Ejemplo Tarea Automatizada
 
 +++?video=https://raw.githubusercontent.com/coneking/rundeck/demo/videos/rundeck_rec.mp4
 @title[Rundeck]
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
+
 @title[Intrgracion]
+
 ## Integración Portal de Servicios
 
-![Portal](https://raw.githubusercontent.com/coneking/rundeck/demo/images/portal.png)
+![Portal](images/portal.png)
 
 
 
